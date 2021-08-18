@@ -1,0 +1,1 @@
+InvoiceNo:STRING,StockCode:STRING,Description:STRING,Quantity:INTEGER,InvoiceDate:STRING,UnitPrice:FLOAT,CustomerID:INTEGER,Country:STRING
